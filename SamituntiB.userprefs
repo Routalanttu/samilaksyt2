@@ -1,0 +1,19 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\PlayerControl.cs">
+    <Files>
+      <File FileName="Assets\Scripts\Systems\GameStateManager.cs" Line="67" Column="34" />
+      <File FileName="Assets\Scripts\GUI\MainMenuGUI.cs" Line="7" Column="1" />
+      <File FileName="Assets\Scripts\Systems\MenuState.cs" Line="12" Column="31" />
+      <File FileName="Assets\Scripts\Systems\GameState.cs" Line="7" Column="68" />
+      <File FileName="Assets\Scripts\GameManager.cs" Line="27" Column="53" />
+      <File FileName="Assets\Scripts\InputManager.cs" Line="9" Column="12" />
+      <File FileName="Assets\Scripts\Gun.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\PlayerControl.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
